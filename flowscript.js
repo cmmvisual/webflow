@@ -1,1 +1,1 @@
-console.log(' Github File was integrated')
+console.log(' Github File was integrated and was updated')
